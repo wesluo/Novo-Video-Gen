@@ -1,0 +1,34 @@
+{
+  "story_info": {
+    "id": 15,
+    "title": "Corolla Rear-Ended with SpaceX Launch in Background",
+    "theme": "distracted_driving",
+    "upvotes": 8881,
+    "comments": 585,
+    "url": "https://reddit.com/r/Roadcam/comments/7lq1jo/usa_corolla_gets_rear_ended_hard_with_spacex/"
+  },
+  "workflow_execution": {
+    "timestamp": "2025-07-31T12:46:50.852945",
+    "content_scraped": true,
+    "video_downloaded": true,
+    "video_info": {
+      "downloaded": true,
+      "metadata": {
+        "title": "Rocket in the Sky plus Accident.",
+        "duration": 181,
+        "uploader": "mark sales",
+        "view_count": 7507618,
+        "upload_date": "20171223",
+        "resolution": "640x360"
+      },
+      "file_path": "/Users/wesl/Claude/Novo Video Generation/Crypto_Scripts/stories/story_015_corolla_rear_ended_with_spacex_launch_in_backgroun/video.mp4"
+    }
+  },
+  "files_created": [
+    "script",
+    "content",
+    "video",
+    "metadata",
+    "log"
+  ]
+}

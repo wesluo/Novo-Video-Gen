@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Ff7wbSwTuEk&amp;t=30",
+      "platform": "www.youtube.com",
+      "type": "youtube",
+      "video_id": "Ff7wbSwTuEk"
+    }
+  ],
+  "errors": [],
+  "metadata": {
+    "extracted_at": "2025-07-31T13:46:32.774190",
+    "source_url": "https://reddit.com/r/Roadcam/comments/7lq1jo/usa_corolla_gets_rear_ended_hard_with_spacex/"
+  }
+}
